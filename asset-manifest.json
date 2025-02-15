@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/vindhya-portfolio/static/css/main.44bd02a0.css",
-    "main.js": "/vindhya-portfolio/static/js/main.b1e3515c.js",
+    "main.js": "/vindhya-portfolio/static/js/main.a7385967.js",
     "static/js/787.1ed0c42c.chunk.js": "/vindhya-portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/3135789.png": "/vindhya-portfolio/static/media/3135789.03961758fc894ce1fd2d.png",
     "index.html": "/vindhya-portfolio/index.html",
     "main.44bd02a0.css.map": "/vindhya-portfolio/static/css/main.44bd02a0.css.map",
-    "main.b1e3515c.js.map": "/vindhya-portfolio/static/js/main.b1e3515c.js.map",
+    "main.a7385967.js.map": "/vindhya-portfolio/static/js/main.a7385967.js.map",
     "787.1ed0c42c.chunk.js.map": "/vindhya-portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.44bd02a0.css",
-    "static/js/main.b1e3515c.js"
+    "static/js/main.a7385967.js"
   ]
 }
