@@ -2,12 +2,13 @@ import React from "react";
 import "react-circular-progressbar/dist/styles.css";
 import { projects, aboutMe, workExperience } from "./data";
 import Footer from "./Footer";
+import profile from './assets/3135789.png';
 
 function Portfolio(props) {
     return (
         <div className="main">
             <div className="first-section">
-                <img alt="profile" src="../3135789.png"/>
+                <img alt="profile" src={profile}/>
                 <div className="name">Vindhya Chalamolu</div>
                 <div className="role">Full Stack Developer</div>
             </div>
