@@ -1,0 +1,34 @@
+sign in
+Register
+home page 
+profile/account
+cart
+whishlist
+
+past orders
+
+customer service
+
+tracking page
+
+return and refund history
+addresses-payment-place order
+products
+single product descrption
+about us
+
+cancel order
+
+-----------------------------------------------------------
+
+profile pic
+
+about me
+
+My Resume
+
+Skills - with rating
+
+Projects
+
+footer
