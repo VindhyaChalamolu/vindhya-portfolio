@@ -4,6 +4,7 @@
   flex-direction: column;
   line-height: 32px;
   font-family: 'Space Mono', Arial, serif;
+  text-align: justify;
 }
 
 .first-section {
@@ -261,9 +262,9 @@
 
   .projects .item {
     border: 1px solid white;
-     border-radius: 5px;
-        padding: 20px;   
-        flex-basis: 100%;
+    border-radius: 5px;
+    padding: 20px;   
+    flex-basis: 100%;
   }
 
 }

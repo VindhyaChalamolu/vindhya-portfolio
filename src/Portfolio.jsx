@@ -84,11 +84,11 @@ function Portfolio(props) {
                 <div className="heading" style={{padding:"80px"}}>Projects</div>
                 <div className="projects">
                     {projects.map(p => (
-                        <div className="item">
+                        <div className="item" style={p.span === "2" ? {gridColumn: "1/-1"} : {}}>
                             <div className="project-name">{p.name}</div>
                             <div style={{fontWeight: "400", fontSize: "16px", padding: "0px 20px 20px 20px"}}>
                                 {p.description}
-                                <div><b>Link:</b></div>
+                                <div><b>Link:</b><a href={p.link} target="blank">Play Game</a></div>
                             </div>
                         </div>
                     ))}
